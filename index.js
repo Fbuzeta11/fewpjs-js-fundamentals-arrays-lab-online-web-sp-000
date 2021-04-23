@@ -1,3 +1,3 @@
 // Write your solution here!
-const append = []
-pets.append('Odie');
+const append = ["Milo", "Otis", "Garfield"]
+pets.unshift('Odie');
